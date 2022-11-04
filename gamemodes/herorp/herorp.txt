@@ -2,7 +2,7 @@
 {
 	"base"		"base"
 	"title"		"Hero RolePlay"
-	"maps"		"^hrp_"
+	"maps"		"^rp_"
 	"category"	"rp"
 	"menusystem"	"1"
 
