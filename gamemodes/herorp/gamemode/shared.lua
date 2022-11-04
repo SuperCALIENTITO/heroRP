@@ -1,6 +1,7 @@
-GM.Name = "Hero RolePlay"
-GM.Author = "Vicentefelipechile & Lugent"
-GM.Website = "www.mapping-latam.cl"
+GM.Name     = "Hero RolePlay"
+GM.Author   = "Vicentefelipechile & Lugent"
+GM.Website  = "www.mapping-latam.cl"
+GM.Version  = "0.1"
 
 DeriveGamemode( "sandbox" )
 
